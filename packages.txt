@@ -1,8 +1,0 @@
-beamer
-beamertheme-metropolis
-csquotes
-fira
-hyperref
-listings
-pgfopts
-subfiles
